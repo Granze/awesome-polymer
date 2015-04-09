@@ -31,3 +31,6 @@ A collection of awesome Polymer resources (0.8+).
 #### Tools
 * [Web components tester](https://github.com/Polymer/web-component-tester)
 * [Vulcanize](https://github.com/Polymer/vulcanize)
+
+#### Sample projects
+* [Google Santa Tracker](https://github.com/google/santa-tracker-web)
