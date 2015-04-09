@@ -1,5 +1,5 @@
 # Awesome Polymer
-A collection of awesome Polymer resources.
+A collection of awesome Polymer resources (0.8+).
 
 ### General resources
 * [Official Site](https://www.polymer-project.org)
