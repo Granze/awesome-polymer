@@ -1,5 +1,7 @@
 # Awesome Polymer
-A collection of awesome Polymer resources (0.8+).
+A collection of awesome Polymer resources (Tutorials and articles 0.8+).
+
+:warning: = not compatibile with version 0.8 yet
 
 ### General resources
 * [Official Site](https://www.polymer-project.org)
@@ -23,14 +25,14 @@ A collection of awesome Polymer resources (0.8+).
 * [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 
 #### Boilerplates
-* [Polymer seed element](https://github.com/polymerlabs/seed-element)
+* [Polymer seed element](https://github.com/polymerlabs/seed-element) :warning:
 
 #### Generators
-* [Yeoman Polymer generator](https://github.com/yeoman/generator-polymer)
+* [Yeoman Polymer generator](https://github.com/yeoman/generator-polymer) :warning:
 
 #### Tools
-* [Web components tester](https://github.com/Polymer/web-component-tester)
-* [Vulcanize](https://github.com/Polymer/vulcanize)
+* [Web components tester](https://github.com/Polymer/web-component-tester) :warning:
+* [Vulcanize](https://github.com/Polymer/vulcanize) :warning:
 
 #### Sample projects
 * [Google Santa Tracker](https://github.com/google/santa-tracker-web)
