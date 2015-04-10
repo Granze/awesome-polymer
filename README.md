@@ -16,19 +16,20 @@ A collection of awesome Polymer resources (Tutorials and articles 0.8+).
 * [Google+ Community](https://plus.google.com/u/1/communities/115626364525706131031)
 
 #### Tutorials
+* [0.5 to 0.8 conversion process](https://github.com/chuckh/road-to-polymer/blob/master/conversion.md)
 
 #### Articles
-* [Polymer 0.8 primer](https://github.com/Polymer/polymer/blob/0.8-preview/PRIMER.md)
-* [Polymer 0.8 sneak peak](https://divshot.com/blog/web-components/polymer-0-8-sneak-peek/)
+* [0.8 primer](https://github.com/Polymer/polymer/blob/0.8-preview/PRIMER.md)
+* [0.8 sneak peak](https://divshot.com/blog/web-components/polymer-0-8-sneak-peek/)
 
 #### Videos
 * [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 
 #### Boilerplates
-* [Polymer seed element](https://github.com/polymerlabs/seed-element) :warning:
+* [Seed element](https://github.com/polymerlabs/seed-element) :warning:
 
 #### Generators
-* [Yeoman Polymer generator](https://github.com/yeoman/generator-polymer) :warning:
+* [Yeoman generator](https://github.com/yeoman/generator-polymer) :warning:
 
 #### Tools
 * [Web components tester](https://github.com/Polymer/web-component-tester) :warning:
