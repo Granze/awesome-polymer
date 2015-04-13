@@ -32,6 +32,7 @@ A collection of awesome Polymer resources (Tutorials and articles 0.8+).
 * [Yeoman generator](https://github.com/yeoman/generator-polymer) :warning:
 
 #### Tools
+* [0.5 to 0.8 converter](http://chuckh.github.io/road-to-polymer/convert-code.html)
 * [Web components tester](https://github.com/Polymer/web-component-tester) :warning:
 * [Vulcanize](https://github.com/Polymer/vulcanize) :warning:
 
