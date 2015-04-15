@@ -41,3 +41,4 @@ A collection of awesome Polymer resources (Tutorials and articles 0.8+).
 
 #### Sample projects
 * [Google Santa Tracker](https://github.com/google/santa-tracker-web)
+* [Google I/O 2015](https://events.google.com/io2015/)
