@@ -37,8 +37,13 @@ A collection of awesome Polymer resources (Tutorials and articles 0.8+).
 * [Web components tester](https://github.com/Polymer/web-component-tester) :warning:
 * [Vulcanize](https://github.com/Polymer/vulcanize) :warning:
 
-### Mixins
-* [ Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
+#### Mixins
+* [Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
+
+#### Directories
+* [Built with Polymer](http://builtwithpolymer.org/)
+* [Customelemets.io](http://customelements.io/)
+* [Components Kitchen](http://component.kitchen/)
 
 #### Sample projects
 * [Google Santa Tracker](https://github.com/google/santa-tracker-web)
