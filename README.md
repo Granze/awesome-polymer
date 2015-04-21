@@ -27,7 +27,7 @@ A collection of awesome Polymer resources (Tutorials and articles 0.8+).
 * [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 
 #### Boilerplates
-* [Seed element](https://github.com/polymerlabs/seed-element) :warning:
+* [Seed element](https://github.com/polymerlabs/seed-element)
 
 #### Generators
 * [Yeoman generator](https://github.com/yeoman/generator-polymer) :warning:
