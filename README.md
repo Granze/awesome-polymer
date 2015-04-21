@@ -35,7 +35,7 @@ A collection of awesome Polymer resources (Tutorials and articles 0.8+).
 #### Tools
 * [0.5 to 0.8 converter](http://chuckh.github.io/road-to-polymer/convert-code.html)
 * [Web components tester](https://github.com/Polymer/web-component-tester) :warning:
-* [Vulcanize](https://github.com/Polymer/vulcanize) :warning:
+* [Vulcanize](https://github.com/Polymer/vulcanize)
 
 #### Mixins
 * [Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
