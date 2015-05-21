@@ -1,7 +1,7 @@
 # Awesome Polymer
 A collection of awesome Polymer resources (Tutorials and articles 0.8+).
 
-:warning: = not compatibile with version 0.8 yet
+:warning: = not compatibile with version latest Polymer version
 
 ### General resources
 * [Official Site](https://www.polymer-project.org)
@@ -46,6 +46,7 @@ A collection of awesome Polymer resources (Tutorials and articles 0.8+).
 * [Customelemets.io](http://customelements.io/)
 * [Components Kitchen](http://component.kitchen/)
 
-#### Sample projects
+#### Notable projects
 * [Google Santa Tracker](https://github.com/google/santa-tracker-web)
 * [Google I/O 2015](https://events.google.com/io2015/)
+* [Google Music](https://play.google.com/)
