@@ -51,3 +51,9 @@ A collection of awesome Polymer resources (Tutorials and articles 0.8+).
 * [Google Santa Tracker](https://github.com/google/santa-tracker-web)
 * [Google I/O 2015](https://events.google.com/io2015/)
 * [Google Music](https://play.google.com/)
+
+---
+
+#### License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
