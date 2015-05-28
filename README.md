@@ -1,5 +1,5 @@
 # Awesome Polymer
-A collection of awesome Polymer resources (Tutorials and articles 0.8+).
+A collection of awesome Polymer resources.
 
 :warning: = not compatibile with version latest Polymer version
 
