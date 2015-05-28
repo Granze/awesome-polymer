@@ -5,6 +5,7 @@ A collection of awesome Polymer resources (Tutorials and articles 0.8+).
 
 ### General resources
 * [Official Site](https://www.polymer-project.org)
+* [Elements Catalog](https://elements.polymer-project.org/)
 * [Blog](https://blog.polymer-project.org/)
 * [Google+ Profile](https://plus.google.com/+PolymerProject/)
 * [Github](https://github.com/polymer)
