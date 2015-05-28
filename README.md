@@ -21,6 +21,7 @@ A collection of awesome Polymer resources (Tutorials and articles 0.8+).
 * [0.5 to 0.8 conversion process](https://github.com/chuckh/road-to-polymer/blob/master/conversion.md)
 
 #### Articles
+* [What is shady DOM](https://www.polymer-project.org/1.0/articles/shadydom.html)
 * [0.8 primer](https://github.com/Polymer/polymer/blob/0.8-preview/PRIMER.md)
 * [0.8 sneak peak](https://divshot.com/blog/web-components/polymer-0-8-sneak-peek/)
 
