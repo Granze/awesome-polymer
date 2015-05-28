@@ -17,8 +17,8 @@ A collection of awesome Polymer resources.
 * [Google+ Community](https://plus.google.com/u/1/communities/115626364525706131031)
 * [Slack channel](http://polymer-slack.herokuapp.com/)
 
-#### Tutorials
-* [0.5 to 0.8 conversion process](https://github.com/chuckh/road-to-polymer/blob/master/conversion.md)
+#### Tutorials/Guides
+* [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
 
 #### Articles
 * [What is shady DOM](https://www.polymer-project.org/1.0/articles/shadydom.html)
