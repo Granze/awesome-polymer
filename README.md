@@ -37,7 +37,6 @@ A collection of awesome Polymer resources.
 
 #### Tools
 * [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
-* [0.5 to 0.8 converter](http://chuckh.github.io/road-to-polymer/convert-code.html)
 * [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
 * [Vulcanize](https://github.com/Polymer/vulcanize) Build tool for HTMLimports and web components.
 
