@@ -5,7 +5,6 @@ A collection of awesome Polymer resources.
 
 ### General resources
 * [Official Site](https://www.polymer-project.org)
-* [Elements Catalog](https://elements.polymer-project.org/)
 * [Blog](https://blog.polymer-project.org/)
 * [Google+ Profile](https://plus.google.com/+PolymerProject/)
 * [Github](https://github.com/polymer)
@@ -19,6 +18,7 @@ A collection of awesome Polymer resources.
 
 #### Tutorials/Guides
 * [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
+* [Using elements](https://elements.polymer-project.org/guides/using-elements)
 
 #### Articles
 * [What is shady DOM](https://www.polymer-project.org/1.0/articles/shadydom.html)
@@ -30,8 +30,18 @@ A collection of awesome Polymer resources.
 
 #### Boilerplates
 * [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate)
-* [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/)
+* [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/) Build tools & boilerplate for creating production-quality web apps.
 * [Seed element](https://github.com/polymerlabs/seed-element)
+
+### Elements
+* [Elements Catalog](https://elements.polymer-project.org/) 
+ * [Iron](https://elements.polymer-project.org/browse?package=iron-elements) Iron elements are a set of visual and non-visual utility elements.
+ * [Paper](https://elements.polymer-project.org/browse?package=paper-elements) Paper elements are a set of visual elements that implement Google's Material Design.
+ * [Google web components](https://elements.polymer-project.org/browse?package=google-web-components) 
+ * [Gold](https://elements.polymer-project.org/browse?package=gold-elements) The gold elements are built for e-commerce use-cases like checkout flows.
+ * [Neon](https://elements.polymer-project.org/browse?package=neon-elements) Neon elements implement special effects.
+ * [Platinum](https://elements.polymer-project.org/browse?package=platinum-elements) Elements to turn your web page into a true webapp, with push, offline, and more.
+ * [Molecules](https://elements.polymer-project.org/browse?package=molecules) Elements that wrap other javascript libraries.
 
 #### Generators
 * [Yeoman generator](https://github.com/yeoman/generator-polymer) :warning:
