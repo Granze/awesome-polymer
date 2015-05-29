@@ -30,6 +30,7 @@ A collection of awesome Polymer resources.
 
 #### Boilerplates
 * [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate)
+* [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/)
 * [Seed element](https://github.com/polymerlabs/seed-element)
 
 #### Generators
