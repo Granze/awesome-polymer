@@ -3,7 +3,7 @@ A collection of awesome Polymer resources.
 
 :warning: = not compatibile with version latest Polymer version
 
-### General resources
+#### General resources
 * [Official Site](https://www.polymer-project.org)
 * [Blog](https://blog.polymer-project.org/)
 * [Google+ Profile](https://plus.google.com/+PolymerProject/)
@@ -34,7 +34,7 @@ A collection of awesome Polymer resources.
 * [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/) Build tools & boilerplate for creating production-quality web apps.
 * [Seed element](https://github.com/polymerlabs/seed-element)
 
-### Elements
+#### Elements
 * [Elements Catalog](https://elements.polymer-project.org/) 
  * [Iron](https://elements.polymer-project.org/browse?package=iron-elements) Iron elements are a set of visual and non-visual utility elements.
  * [Paper](https://elements.polymer-project.org/browse?package=paper-elements) Paper elements are a set of visual elements that implement Google's Material Design.
@@ -64,6 +64,10 @@ A collection of awesome Polymer resources.
 * [Google Santa Tracker](https://github.com/google/santa-tracker-web)
 * [Google I/O 2015](https://events.google.com/io2015/)
 * [Google Music](https://play.google.com/)
+
+
+###Other awesome resources
+If you want more awesome resources, check the **[awesome](https://github.com/sindresorhus/awesome)** list!
 
 ---
 
