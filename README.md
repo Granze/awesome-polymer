@@ -45,7 +45,7 @@ A collection of awesome Polymer resources.
  * [Molecules](https://elements.polymer-project.org/browse?package=molecules) Elements that wrap other javascript libraries.
 
 ## Generators
-* [Yeoman generator](https://github.com/yeoman/generator-polymer) :warning:
+* [Yeoman generator](https://github.com/yeoman/generator-polymer)
 
 ## Tools
 * [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
