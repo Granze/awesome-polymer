@@ -22,6 +22,7 @@ A collection of awesome Polymer resources.
 
 ## Articles
 * [What is shady DOM](https://www.polymer-project.org/1.0/articles/shadydom.html)
+* [Using Polymer webcomponents with Angular JS](http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/)
 * [0.8 primer](https://github.com/Polymer/polymer/blob/0.8-preview/PRIMER.md)
 * [0.8 sneak peak](https://divshot.com/blog/web-components/polymer-0-8-sneak-peek/)
 
