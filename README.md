@@ -26,6 +26,7 @@ A collection of awesome Polymer resources.
 * [0.8 sneak peak](https://divshot.com/blog/web-components/polymer-0-8-sneak-peek/)
 
 ## Videos
+* [The Web Platform Podcast 46: Polymer 1.0](https://www.youtube.com/watch?v=d9tNO3n0RlM)
 * [Google I/O 2015 - Polymer and modern web APIs: In production at Google scale](https://www.youtube.com/watch?v=fD2As5RmM8Q)
 * [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 
