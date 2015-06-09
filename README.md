@@ -1,7 +1,7 @@
 # Awesome Polymer
-A collection of awesome Polymer resources.
+A collection of awesome Polymer resources (v1+).
 
-:warning: = not compatibile with version latest Polymer version
+:warning: = based on an older Polymer version 
 
 ## General resources
 * [Official Site](https://www.polymer-project.org)
@@ -23,8 +23,6 @@ A collection of awesome Polymer resources.
 ## Articles
 * [What is shady DOM](https://www.polymer-project.org/1.0/articles/shadydom.html)
 * [Using Polymer webcomponents with Angular JS](http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/)
-* [0.8 primer](https://github.com/Polymer/polymer/blob/0.8-preview/PRIMER.md)
-* [0.8 sneak peak](https://divshot.com/blog/web-components/polymer-0-8-sneak-peek/)
 
 ## Videos
 * [The Web Platform Podcast 46: Polymer 1.0](https://www.youtube.com/watch?v=d9tNO3n0RlM)
@@ -62,10 +60,10 @@ A collection of awesome Polymer resources.
 * [Customelemets.io](http://customelements.io/)
 * [Components Kitchen](http://component.kitchen/)
 
-## Notable projects
-* [Google Santa Tracker](https://github.com/google/santa-tracker-web)
-* [Google I/O 2015](https://events.google.com/io2015/)
-* [Google Music](https://play.google.com/)
+## Notable projects 
+* [Google Santa Tracker](https://github.com/google/santa-tracker-web) :warning:
+* [Google I/O 2015](https://events.google.com/io2015/) :warning:
+* [Google Music](https://play.google.com/) :warning:
 
 
 ##Other awesome resources
