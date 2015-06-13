@@ -35,6 +35,10 @@ A collection of awesome Polymer resources (v1+).
 * [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/) Build tools & boilerplate for creating production-quality web apps.
 * [Seed element](https://github.com/polymerlabs/seed-element)
 
+## Generators
+* [Generator Polymer](https://github.com/yeoman/generator-polymer) Yeoman generator for Polymer projects, based on the official [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/).
+* [Generator element](https://www.npmjs.com/package/generator-element) Yeoman generator to create Custom Elements using Polymer, X-Tag or VanillaJS.
+
 ## Elements
 * [Elements Catalog](https://elements.polymer-project.org/) 
  * [Iron](https://elements.polymer-project.org/browse?package=iron-elements) Iron elements are a set of visual and non-visual utility elements.
@@ -45,9 +49,10 @@ A collection of awesome Polymer resources (v1+).
  * [Platinum](https://elements.polymer-project.org/browse?package=platinum-elements) Elements to turn your web page into a true webapp, with push, offline, and more.
  * [Molecules](https://elements.polymer-project.org/browse?package=molecules) Elements that wrap other javascript libraries.
 
-## Generators
-* [Generator Polymer](https://github.com/yeoman/generator-polymer) Yeoman generator for Polymer projects, based on the official [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/).
-* [Generator element](https://www.npmjs.com/package/generator-element) Yeoman generator to create Custom Elements using Polymer, X-Tag or VanillaJS.
+## Directories
+* [Built with Polymer](http://builtwithpolymer.org/)
+* [Customelemets.io](http://customelements.io/)
+* [Components Kitchen](http://component.kitchen/)
 
 ## Tools
 * [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
@@ -56,11 +61,6 @@ A collection of awesome Polymer resources (v1+).
 
 ## Mixins
 * [Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
-
-## Directories
-* [Built with Polymer](http://builtwithpolymer.org/)
-* [Customelemets.io](http://customelements.io/)
-* [Components Kitchen](http://component.kitchen/)
 
 ## Notable projects 
 * [Google Santa Tracker](https://github.com/google/santa-tracker-web) :warning:
