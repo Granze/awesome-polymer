@@ -21,6 +21,7 @@ A collection of awesome Polymer resources (v1+).
 * [Using elements](https://elements.polymer-project.org/guides/using-elements)
 
 ## Articles
+* [Guitar Tuner with Web audio API](https://aerotwist.com/blog/guitar-tuner/)
 * [Polymer for the Performance-obsessed](https://aerotwist.com/blog/polymer-for-the-performance-obsessed/)
 * [What is shady DOM](https://www.polymer-project.org/1.0/articles/shadydom.html)
 * [Using Polymer webcomponents with Angular JS](http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/)
