@@ -63,6 +63,7 @@ A collection of awesome Polymer resources (v1+).
 * [Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
 
 ## Notable projects 
+* [A web-based guitar tuner](https://github.com/GoogleChrome/guitar-tuner)
 * [Google Santa Tracker](https://github.com/google/santa-tracker-web) :warning:
 * [Google I/O 2015](https://events.google.com/io2015/) :warning:
 * [Google Music](https://play.google.com/) :warning:
