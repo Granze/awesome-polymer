@@ -59,6 +59,7 @@ A collection of awesome Polymer resources (v1+).
 * [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
 * [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
 * [Vulcanize](https://github.com/Polymer/vulcanize) Build tool for HTMLimports and web components.
+* [Snippets for Atom editor](https://atom.io/packages/polymer-snippets)
 
 ## Mixins
 * [Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
