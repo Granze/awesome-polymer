@@ -60,6 +60,7 @@ A collection of awesome Polymer resources (v1+).
 * [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
 * [Vulcanize](https://github.com/Polymer/vulcanize) Build tool for HTMLimports and web components.
 * [Snippets for Atom editor](https://atom.io/packages/polymer-snippets)
+* [Snippets for Sublime Text editor](https://packagecontrol.io/packages/Polymer%20%26%20Web%20Component%20Snippets)
 
 ## Mixins
 * [Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
