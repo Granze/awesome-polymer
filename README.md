@@ -25,6 +25,7 @@ A collection of awesome Polymer resources (v1+).
 * [Polymer for the Performance-obsessed](https://aerotwist.com/blog/polymer-for-the-performance-obsessed/)
 * [What is shady DOM](https://www.polymer-project.org/1.0/articles/shadydom.html)
 * [Using Polymer webcomponents with Angular JS](http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/)
+* [Upgrading to 1.0](https://www.bithound.io/blog/post/upgrading-to-polymer-10) bitHound Blog
 
 ## Videos
 * [The Web Platform Podcast 46: Polymer 1.0](https://www.youtube.com/watch?v=d9tNO3n0RlM)
