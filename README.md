@@ -1,6 +1,8 @@
 # Awesome Polymer
 A collection of awesome Polymer resources (v1+).
 
+![Polymer](https://www.dartlang.org/polymer/images/polymer-logo.svg)
+
 :warning: = based on an older Polymer version 
 
 ## General resources
