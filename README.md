@@ -32,9 +32,10 @@ A collection of awesome Polymer resources (v1+).
 * [Setting up your Production-ready Polymer 1.0 Application Development](http://blogs.walkingtree.in/2015/06/29/setting-up-your-production-ready-polymer-1-0-application-development/)
 
 ## Videos
+* [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 * [The Web Platform Podcast 46: Polymer 1.0](https://www.youtube.com/watch?v=d9tNO3n0RlM)
 * [Google I/O 2015 - Polymer and modern web APIs: In production at Google scale](https://www.youtube.com/watch?v=fD2As5RmM8Q)
-* [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
+* [Componentize your app with Polymer Elements](https://youtu.be/7WgEuNZCCHk)
 
 ## Boilerplates
 * [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate)
