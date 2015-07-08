@@ -38,7 +38,7 @@ A collection of awesome Polymer resources (v1+).
 * [Componentize your app with Polymer Elements](https://youtu.be/7WgEuNZCCHk)
 
 ## Podcasts
-* [Polymer Podcast](http://www.stitcher.com/podcast/polymer-podcast)
+* [Polymer Podcast](http://www.polymerpodcast.com/)
 
 ## Boilerplates
 * [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate)
