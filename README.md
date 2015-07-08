@@ -37,6 +37,9 @@ A collection of awesome Polymer resources (v1+).
 * [Google I/O 2015 - Polymer and modern web APIs: In production at Google scale](https://www.youtube.com/watch?v=fD2As5RmM8Q)
 * [Componentize your app with Polymer Elements](https://youtu.be/7WgEuNZCCHk)
 
+## Podcasts
+* [Polymer Podcast](http://www.stitcher.com/podcast/polymer-podcast)
+
 ## Boilerplates
 * [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate)
 * [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/) Build tools & boilerplate for creating production-quality web apps.
