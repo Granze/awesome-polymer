@@ -23,6 +23,7 @@ A collection of awesome Polymer resources (v1+).
 * [Using elements](https://elements.polymer-project.org/guides/using-elements)
 
 ## Articles
+* [Using Polymer with Flux and a global app state](http://paulusschoutsen.nl/blog/2015/07/using-polymer-with-flux-and-a-global-app-state/)
 * [Guitar Tuner with Web audio API](https://aerotwist.com/blog/guitar-tuner/)
 * [Polymer for the Performance-obsessed](https://aerotwist.com/blog/polymer-for-the-performance-obsessed/)
 * [What is shady DOM](https://www.polymer-project.org/1.0/articles/shadydom.html)
