@@ -61,6 +61,9 @@ A collection of awesome Polymer resources (v1+).
  * [Neon](https://elements.polymer-project.org/browse?package=neon-elements) Neon elements implement special effects.
  * [Platinum](https://elements.polymer-project.org/browse?package=platinum-elements) Elements to turn your web page into a true webapp, with push, offline, and more.
  * [Molecules](https://elements.polymer-project.org/browse?package=molecules) Elements that wrap other javascript libraries.
+* [pull-to-action](https://github.com/Link2Twenty/pull-to-action) An animated pull-to-refresh container.
+* [sc-timeago](https://github.com/safetychanger/sc-timeago) An element that shows a date/time as 'some time ago' using moment.js.
+* [podcast-player](https://github.com/prateekjadhwani/podcast-player) A podcast player with a waveform visualizer.
 
 ## Directories
 * [Built with Polymer](http://builtwithpolymer.org/)
