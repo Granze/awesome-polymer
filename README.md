@@ -64,6 +64,9 @@ A collection of awesome Polymer resources (v1+).
 * [pull-to-action](https://github.com/Link2Twenty/pull-to-action) An animated pull-to-refresh container.
 * [sc-timeago](https://github.com/safetychanger/sc-timeago) An element that shows a date/time as 'some time ago' using moment.js.
 * [podcast-player](https://github.com/prateekjadhwani/podcast-player) A podcast player with a waveform visualizer.
+* [ExpandJS Elements](http://expandjs.com/elements/)
+ * [mat-elements](http://expandjs.com/elements/mat-label) A set of visual elements that follow Google's Material Design guidelines.
+ * [xp-elements](http://expandjs.com/elements/xp-label) A set of mostly non-visual elements that cover common WebApp use cases, such as input validation, selection handling, layout scaffolding etc.
 
 ## Directories
 * [Built with Polymer](http://builtwithpolymer.org/)
