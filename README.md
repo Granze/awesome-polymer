@@ -1,7 +1,8 @@
-# Awesome Polymer
-A collection of awesome Polymer resources (v1+).
+# Awesome Polymer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![Polymer](https://www.dartlang.org/polymer/images/polymer-logo.svg)
+
+> A collection of awesome Polymer resources (v1+)
 
 :warning: = based on an older Polymer version 
 
