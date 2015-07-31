@@ -24,6 +24,7 @@
 * [Using elements](https://elements.polymer-project.org/guides/using-elements)
 
 ## Articles
+* [Live-reload for Polymer Chrome Apps](http://codingwithgerwin.blogspot.it/2015/07/live-reload-for-polymer-chrome-apps.html)
 * [Using Polymer with Flux and a global app state](http://paulusschoutsen.nl/blog/2015/07/using-polymer-with-flux-and-a-global-app-state/)
 * [Guitar Tuner with Web audio API](https://aerotwist.com/blog/guitar-tuner/)
 * [Polymer for the Performance-obsessed](https://aerotwist.com/blog/polymer-for-the-performance-obsessed/)
