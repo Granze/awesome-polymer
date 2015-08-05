@@ -63,12 +63,14 @@
  * [Neon](https://elements.polymer-project.org/browse?package=neon-elements) Neon elements implement special effects.
  * [Platinum](https://elements.polymer-project.org/browse?package=platinum-elements) Elements to turn your web page into a true webapp, with push, offline, and more.
  * [Molecules](https://elements.polymer-project.org/browse?package=molecules) Elements that wrap other javascript libraries.
-* [pull-to-action](https://github.com/Link2Twenty/pull-to-action) An animated pull-to-refresh container.
-* [sc-timeago](https://github.com/safetychanger/sc-timeago) An element that shows a date/time as 'some time ago' using moment.js.
-* [podcast-player](https://github.com/prateekjadhwani/podcast-player) A podcast player with a waveform visualizer.
 * [ExpandJS Elements](http://expandjs.com/elements/)
  * [mat-elements](http://expandjs.com/elements/mat-label) A set of visual elements that follow Google's Material Design guidelines.
  * [xp-elements](http://expandjs.com/elements/xp-label) A set of mostly non-visual elements that cover common WebApp use cases, such as input validation, selection handling, layout scaffolding etc.
+* [pull-to-action](https://github.com/Link2Twenty/pull-to-action) An animated pull-to-refresh container.
+* [sc-timeago](https://github.com/safetychanger/sc-timeago) An element that shows a date/time as 'some time ago' using moment.js.
+* [podcast-player](https://github.com/prateekjadhwani/podcast-player) A podcast player with a waveform visualizer.
+* [last-fm](https://github.com/Granze/last-fm) A modular element that fetch basic last.fm infos for a given user.
+* [flip-clock](https://github.com/Granze/flip-clock) A flip clock, timer and countdown.
 
 ## Directories
 * [Built with Polymer](http://builtwithpolymer.org/)
