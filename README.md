@@ -42,6 +42,7 @@
 * [Google I/O 2015 - Polymer and modern web APIs: In production at Google scale](https://www.youtube.com/watch?v=fD2As5RmM8Q)
 * [Componentize your app with Polymer Elements](https://youtu.be/7WgEuNZCCHk)
 * [Learn Polymer 1.0](https://www.youtube.com/playlist?list=PLPaj_o9gjMYll0sSb47TrzQCjIo5iqQZm) by Stretch Projects
+* [Level up Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-)
 
 ## Podcasts
 * [Polymer Podcast](http://www.polymerpodcast.com/)
