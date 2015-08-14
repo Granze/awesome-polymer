@@ -73,11 +73,13 @@
 * [podcast-player](https://github.com/prateekjadhwani/podcast-player) A podcast player with a waveform visualizer.
 * [last-fm](https://github.com/Granze/last-fm) A modular element that fetch basic last.fm infos for a given user.
 * [flip-clock](https://github.com/Granze/flip-clock) A flip clock, timer and countdown.
+* [lunr-js](https://github.com/marcus7777/lunr-js) Element wrapper for the lunr.js library. (off-line search)
 
 ## Directories
 * [Built with Polymer](http://builtwithpolymer.org/)
 * [Customelemets.io](http://customelements.io/)
 * [Components Kitchen](http://component.kitchen/)
+* [open-elements](http://open-elements.org) Open for all elements working with polymer ^1.1
 
 ## Tools
 * [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
@@ -85,6 +87,7 @@
 * [Vulcanize](https://github.com/Polymer/vulcanize) Build tool for HTMLimports and web components.
 * [Snippets for Atom editor](https://atom.io/packages/polymer-snippets)
 * [Snippets for Sublime Text editor](https://packagecontrol.io/packages/Polymer%20%26%20Web%20Component%20Snippets)
+* [polyup](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0. Does many of the boring mechanical parts for you. [docs](http://polymerlabs.github.io/polyup/)
 
 ## Mixins
 * [Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
