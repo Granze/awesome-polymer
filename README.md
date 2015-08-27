@@ -59,7 +59,7 @@
 * [Generator Polymer](https://github.com/yeoman/generator-polymer) Yeoman generator for Polymer projects, based on the official [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/).
 * [Generator element](https://www.npmjs.com/package/generator-element) Yeoman generator to create Custom Elements using Polymer, X-Tag or VanillaJS.
 
-## Elements
+## Official Elements
 * [Elements Catalog](https://elements.polymer-project.org/) 
  * [Iron](https://elements.polymer-project.org/browse?package=iron-elements) Iron elements are a set of visual and non-visual utility elements.
  * [Paper](https://elements.polymer-project.org/browse?package=paper-elements) Paper elements are a set of visual elements that implement Google's Material Design.
@@ -68,15 +68,6 @@
  * [Neon](https://elements.polymer-project.org/browse?package=neon-elements) Neon elements implement special effects.
  * [Platinum](https://elements.polymer-project.org/browse?package=platinum-elements) Elements to turn your web page into a true webapp, with push, offline, and more.
  * [Molecules](https://elements.polymer-project.org/browse?package=molecules) Elements that wrap other javascript libraries.
-* [ExpandJS Elements](http://expandjs.com/elements/)
- * [mat-elements](http://expandjs.com/elements/mat-label) A set of visual elements that follow Google's Material Design guidelines.
- * [xp-elements](http://expandjs.com/elements/xp-label) A set of mostly non-visual elements that cover common WebApp use cases, such as input validation, selection handling, layout scaffolding etc.
-* [pull-to-action](https://github.com/Link2Twenty/pull-to-action) An animated pull-to-refresh container.
-* [sc-timeago](https://github.com/safetychanger/sc-timeago) An element that shows a date/time as 'some time ago' using moment.js.
-* [podcast-player](https://github.com/prateekjadhwani/podcast-player) A podcast player with a waveform visualizer.
-* [last-fm](https://github.com/Granze/last-fm) A modular element that fetch basic last.fm infos for a given user.
-* [flip-clock](https://github.com/Granze/flip-clock) A flip clock, timer and countdown.
-* [lunr-js](https://github.com/marcus7777/lunr-js) Element wrapper for the lunr.js library. (off-line search)
 
 ## Directories
 * [Built with Polymer](http://builtwithpolymer.org/)
