@@ -23,6 +23,8 @@
 * [Unit Testing](https://medium.com/@granze/polymer-unit-testing-d6a69910dc31)
 * [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
 * [Using elements](https://elements.polymer-project.org/guides/using-elements)
+* [Flexbox layout with iron-flex-layout](https://elements.polymer-project.org/guides/flex-layout)
+* [Using Neon Animations](https://elements.polymer-project.org/guides/using-neon-animations)
 * [Build a real-time to-do app](https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app)
 
 ## Articles
