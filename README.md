@@ -96,6 +96,7 @@
 * [Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
 
 ## Notable projects 
+* [Youtube Gaming](https://gaming.youtube.com/)
 * [A web-based guitar tuner](https://github.com/GoogleChrome/guitar-tuner)
 * [Dota 2 armory](http://d2armory.com/) 
 * [Google Santa Tracker](https://github.com/google/santa-tracker-web) :warning:
