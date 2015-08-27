@@ -13,3 +13,8 @@ Your contributions are always welcome!
 * Check your spelling and grammar.
 * Make sure your text editor is set to remove trailing whitespace.
 * Send a Pull Request.
+
+### Note about element listing
+Since it's impossible to include and mantain the elements list if anyone submit his own, only the official elements are listed. I suggest you to submit your Polymer elements to one of the directory mentioned in the list.
+
+Thanks!
