@@ -77,11 +77,15 @@
 
 ## Tools
 * [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
-* [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
 * [Vulcanize](https://github.com/Polymer/vulcanize) Build tool for HTMLimports and web components.
 * [Snippets for Atom editor](https://atom.io/packages/polymer-snippets)
 * [Snippets for Sublime Text editor](https://packagecontrol.io/packages/Polymer%20%26%20Web%20Component%20Snippets)
 * [polyup](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0. Does many of the boring mechanical parts for you. [docs](http://polymerlabs.github.io/polyup/)
+
+## Testing
+* [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
+* [test-fixture](https://github.com/PolymerElements/test-fixture) Element that can simplify the exercise of consistently resetting a test suite's DOM.
+* [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) Utility classes to make testing easier.
 
 ## Mixins
 * [Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
