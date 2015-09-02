@@ -26,6 +26,7 @@
 * [Flexbox layout with iron-flex-layout](https://elements.polymer-project.org/guides/flex-layout)
 * [Using Neon Animations](https://elements.polymer-project.org/guides/using-neon-animations)
 * [Build a real-time to-do app](https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app)
+* [Taming Polymer with SystemJS and TypeScript](http://blog.charto.net/typescript/Taming-Polymer-with-SystemJS-and-TypeScript-part-1/) Part 1
 
 ## Articles
 * [Live-reload for Polymer Chrome Apps](http://codingwithgerwin.blogspot.it/2015/07/live-reload-for-polymer-chrome-apps.html)
