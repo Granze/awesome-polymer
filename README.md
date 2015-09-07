@@ -85,6 +85,7 @@
 
 ## Testing
 * [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
+* [Web components tester istambul](https://github.com/thedeeno/web-component-tester-istanbul) Istanbul coverage plugin for web-component-tester.
 * [test-fixture](https://github.com/PolymerElements/test-fixture) Element that can simplify the exercise of consistently resetting a test suite's DOM.
 * [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) Utility classes to make testing easier.
 
