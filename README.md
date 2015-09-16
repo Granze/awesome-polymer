@@ -82,6 +82,7 @@
 * [Polybuild](https://github.com/PolymerLabs/polybuild) An all-in-one build tool for Polymer apps.
 * [Polyup](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0. 
 * [Polylint](https://github.com/PolymerLabs/polylint) Detect errors in your code.
+* [Polygit](http://polygit.org/) The Magic Server serves files directly from github (via ```cdn.rawgit.com```) in a manner that is compatible with HTML Imports natural deduplication feature.
 * [Polydev](https://github.com/PolymerLabs/polydev) DevTool extension.
 * [Polymer Ready](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) Show an icon in the address bar when it detects some Polymer and Custom components.
 * [PolySearch](https://chrome.google.com/webstore/detail/polysearch/gchibjlnlbpgcfjpbebnlecbbjndiidj) Search for Polymer elements directly from the Google Chrome's Omnibox. 
