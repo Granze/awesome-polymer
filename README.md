@@ -80,11 +80,15 @@
 ## Tools
 * [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
 * [Polybuild](https://github.com/PolymerLabs/polybuild) An all-in-one build tool for Polymer apps.
+* [Polyup](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0. Does many of the boring mechanical parts for you. [docs](http://polymerlabs.github.io/polyup/)
+* [Polylint](https://github.com/PolymerLabs/polylint) Detect errors in your code.
+* [Polydev](https://github.com/PolymerLabs/polydev) DevTool extension.
+* [Polymer Ready](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) Show an icon in the address bar when it detects some Polymer and Custom components.
+* [PolySearch](https://chrome.google.com/webstore/detail/polysearch/gchibjlnlbpgcfjpbebnlecbbjndiidj) Search for Polymer elements directly from the Google Chrome's Omnibox. 
 * [Vulcanize](https://github.com/Polymer/vulcanize) Build tool for HTMLimports and web components.
+* [Crisper](https://github.com/PolymerLabs/crisper) Split inline scripts from an HTML file for CSP compliance.
 * [Snippets for Atom editor](https://atom.io/packages/polymer-snippets)
 * [Snippets for Sublime Text editor](https://packagecontrol.io/packages/Polymer%20%26%20Web%20Component%20Snippets)
-* [polyup](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0. Does many of the boring mechanical parts for you. [docs](http://polymerlabs.github.io/polyup/)
-* [Polymer Ready](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) Show an icon in the address bar when it detects some Polymer and Custom components.
 
 ## Testing
 * [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
