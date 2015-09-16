@@ -42,6 +42,7 @@
 
 ## Videos
 * [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
+* [Summit 2015](https://www.youtube.com/playlist?list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J)
 * [The Web Platform Podcast 46: Polymer 1.0](https://www.youtube.com/watch?v=d9tNO3n0RlM)
 * [Google I/O 2015 - Polymer and modern web APIs: In production at Google scale](https://www.youtube.com/watch?v=fD2As5RmM8Q)
 * [Componentize your app with Polymer Elements](https://youtu.be/7WgEuNZCCHk)
