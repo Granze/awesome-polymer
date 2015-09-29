@@ -21,7 +21,7 @@
 
 ## Tutorials/Guides
 * [Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html)
-* [Write web components with es2015](http://www.revillweb.com/tutorials/web-components-with-es2015-es6/)
+* [Write web components with ES2015 (ES6)](http://www.revillweb.com/tutorials/web-components-with-es2015-es6/)
 * [Unit Testing](https://medium.com/@granze/polymer-unit-testing-d6a69910dc31)
 * [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
 * [Using elements](https://elements.polymer-project.org/guides/using-elements)
