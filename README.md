@@ -20,8 +20,6 @@
 * [Slack channel](http://polymer-slack.herokuapp.com/)
 
 ## Tutorials/Guides
-* [Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html)
-* [Write web components with ES2015 (ES6)](http://www.revillweb.com/tutorials/web-components-with-es2015-es6/)
 * [Unit Testing](https://medium.com/@granze/polymer-unit-testing-d6a69910dc31)
 * [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
 * [Using elements](https://elements.polymer-project.org/guides/using-elements)
@@ -31,6 +29,8 @@
 * [Taming Polymer with SystemJS and TypeScript](http://blog.charto.net/typescript/Taming-Polymer-with-SystemJS-and-TypeScript-part-1/) Part 1
 
 ## Articles
+* [Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html)
+* [Write web components with ES2015 (ES6)](http://www.revillweb.com/tutorials/web-components-with-es2015-es6/)
 * [Live-reload for Polymer Chrome Apps](http://codingwithgerwin.blogspot.it/2015/07/live-reload-for-polymer-chrome-apps.html)
 * [Using Polymer with Flux and a global app state](http://paulusschoutsen.nl/blog/2015/07/using-polymer-with-flux-and-a-global-app-state/)
 * [Guitar Tuner with Web audio API](https://aerotwist.com/blog/guitar-tuner/)
