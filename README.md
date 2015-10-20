@@ -11,6 +11,7 @@
 * [Blog](https://blog.polymer-project.org/)
 * [Google+ Profile](https://plus.google.com/+PolymerProject/)
 * [Github](https://github.com/polymer)
+* [Project](https://github.com/polymer/project) All things related to the Polymer project - Roadmap, Code of Conduct, How to Contribute, and more.
 
 ## Polymer Communities
 * [StackOverflow](http://stackoverflow.com/questions/tagged/polymer)
