@@ -21,6 +21,7 @@
 * [Slack channel](http://polymer-slack.herokuapp.com/)
 
 ## Tutorials/Guides
+* [Deploy with Firebase](https://www.polymer-project.org/1.0/docs/start/psk/deploy.html)
 * [Unit Testing](https://medium.com/@granze/polymer-unit-testing-d6a69910dc31)
 * [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
 * [Using elements](https://elements.polymer-project.org/guides/using-elements)
