@@ -108,6 +108,7 @@
 * [Youtube Gaming](https://gaming.youtube.com/)
 * [A web-based guitar tuner](https://github.com/GoogleChrome/guitar-tuner)
 * [Dota 2 armory](http://d2armory.com/) 
+* [Responsive Admin Template](https://github.com/akveo/polymer-admin) 
 * [Google Santa Tracker](https://github.com/google/santa-tracker-web) :warning:
 * [Google I/O 2015](https://events.google.com/io2015/) :warning:
 * [Google Music](https://play.google.com/) :warning:
