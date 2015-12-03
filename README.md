@@ -108,7 +108,7 @@
 * [Youtube Gaming](https://gaming.youtube.com/)
 * [A web-based guitar tuner](https://github.com/GoogleChrome/guitar-tuner)
 * [Dota 2 armory](http://d2armory.com/) 
-* [Google Santa Tracker](https://github.com/google/santa-tracker-web) :warning:
+* [Google Santa Tracker](https://santatracker.google.com/)
 * [Google I/O 2015](https://events.google.com/io2015/) :warning:
 * [Google Music](https://play.google.com/) :warning:
 
