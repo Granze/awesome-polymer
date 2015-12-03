@@ -104,6 +104,10 @@
 ## Mixins
 * [Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
 
+## Theming
+* [Polymer Themes](https://polymerthemes.com/) Free Polymer themes and templates
+* [Material Palette](https://www.materialpalette.com/) Palette generator based on Material Design
+
 ## Notable projects 
 * [Youtube Gaming](https://gaming.youtube.com/)
 * [A web-based guitar tuner](https://github.com/GoogleChrome/guitar-tuner)
