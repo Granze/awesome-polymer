@@ -17,7 +17,7 @@
 * [StackOverflow](http://stackoverflow.com/questions/tagged/polymer)
 * [GoogleGroup](https://groups.google.com/forum/#!forum/polymer-dev)
 * [Twitter](https://twitter.com/polymer)
-* [Google+ Community](https://plus.google.com/u/1/communities/115626364525706131031)
+* [Google+ Community](https://plus.google.com/communities/115626364525706131031)
 * [Slack channel](http://polymer-slack.herokuapp.com/)
 
 ## Tutorials/Guides
@@ -39,7 +39,7 @@
 * [Polymer for the Performance-obsessed](https://aerotwist.com/blog/polymer-for-the-performance-obsessed/)
 * [What is shady DOM](https://www.polymer-project.org/1.0/articles/shadydom.html)
 * [Using Polymer webcomponents with Angular JS](http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/)
-* [Upgrading to 1.0](https://www.bithound.io/blog/post/upgrading-to-polymer-10) bitHound Blog
+* [Upgrading to 1.0](http://blog.bithound.io/upgrading-to-polymer-10) bitHound Blog
 * [Using Polymer with Flux and a global app state](http://paulusschoutsen.nl/blog/2015/07/using-polymer-with-flux-and-a-global-app-state/)
 * [Setting up your Production-ready Polymer 1.0 Application Development](http://blogs.walkingtree.in/2015/06/29/setting-up-your-production-ready-polymer-1-0-application-development/)
 * [Dynamically Loading Elements & ES6 Modules](http://addyosmani.github.io/webcomponent-samples/polymer/modules/)
@@ -59,7 +59,7 @@
 ## Boilerplates
 * [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate)
 * [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/) Build tools & boilerplate for creating production-quality web apps.
-* [Seed element](https://github.com/polymerlabs/seed-element)
+* [Seed element](https://github.com/PolymerElements/seed-element)
 
 ## Generators
 * [Generator Polymer](https://github.com/yeoman/generator-polymer) Yeoman generator for Polymer projects, based on the official [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/).
@@ -77,9 +77,9 @@
 
 ## Directories
 * [Built with Polymer](http://builtwithpolymer.org/)
-* [Customelemets.io](http://customelements.io/)
-* [Components Kitchen](http://component.kitchen/)
-* [open-elements](http://open-elements.org) Open for all elements working with polymer ^1.1
+* [Customelemets.io](https://customelements.io/)
+* [Components Kitchen](https://component.kitchen/)
+* [open-elements](https://open-elements.org/) Open for all elements working with polymer ^1.1
 
 ## Tools
 * [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
@@ -114,7 +114,7 @@
 * [Dota 2 armory](http://d2armory.com/) 
 * [Google Santa Tracker](https://santatracker.google.com/)
 * [Google I/O 2015](https://events.google.com/io2015/) :warning:
-* [Google Music](https://play.google.com/) :warning:
+* [Google Music](https://play.google.com/store) :warning:
 
 
 ##Other awesome resources
