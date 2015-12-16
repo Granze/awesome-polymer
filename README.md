@@ -117,7 +117,7 @@
 * [Google Santa Tracker](https://santatracker.google.com/)
 * [Star Wars Lightsaber Experience](https://lightsaber.withgoogle.com/) 
 * [Google I/O 2015](https://events.google.com/io2015/) :warning:
-* [Google Music](https://play.google.com/) :warning:
+* [Google Music](https://play.google.com/) 
 
 
 ##Other awesome resources
