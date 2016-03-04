@@ -21,6 +21,7 @@
 * [Slack channel](http://polymer-slack.herokuapp.com/)
 
 ## Tutorials/Guides
+* [Official Codelabs](https://codelabs.developers.google.com/polymer-summit)
 * [Test your elements](https://www.polymer-project.org/1.0/tools/tests.html)
 * [Testing Tips](https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64)
 * [Unit Testing](https://medium.com/@granze/polymer-unit-testing-d6a69910dc31)
