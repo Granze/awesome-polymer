@@ -124,6 +124,9 @@
 * [Google Music](https://play.google.com/) 
 * [Torrent Alert](https://github.com/HedCET/TorrentAlert)
 * [Zeplin.io](https://app.zeplin.io/)
+* [Bluemesh](https://bluemesh.com)
+* [Openfin - a canvas-based super high performant grid control](https://github.com/openfin/fin-hypergrid)
+* [picks.io](https://picks.io)
 * [More projects](https://github.com/Polymer/polymer/wiki/Who's-using-Polymer%3F)
 
 
