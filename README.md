@@ -104,8 +104,9 @@
 * [test-fixture](https://github.com/PolymerElements/test-fixture) Element that can simplify the exercise of consistently resetting a test suite's DOM.
 * [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) Utility classes to make testing easier.
 
-## Mixins
-* [Two-way databinding with Firebase](https://github.com/divshot/polymerfire)
+## Behaviours
+* [Reactive meteor data source for polymer elementse](https://github.com/meteorwebcomponents/mixin)
+* [Two way bind polymer with Meteor Flowrouter](https://github.com/meteorwebcomponents/router)
 
 ## Theming/Styling
 * [Polymer Themes](https://polymerthemes.com/) Free Polymer themes and templates
@@ -121,6 +122,7 @@
 * [Star Wars Lightsaber Experience](https://lightsaber.withgoogle.com/) 
 * [Google I/O 2015](https://events.google.com/io2015/) :warning:
 * [Google Music](https://play.google.com/) 
+* [Torrent Alert](https://github.com/HedCET/TorrentAlert)
 
 
 ##Other awesome resources
