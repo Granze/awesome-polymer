@@ -105,7 +105,7 @@
 * [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) Utility classes to make testing easier.
 
 ## Behaviours
-* [Reactive meteor data source for polymer elementse](https://github.com/meteorwebcomponents/mixin)
+* [Reactive meteor data source for polymer elements](https://github.com/meteorwebcomponents/mixin)
 * [Two way bind polymer with Meteor Flowrouter](https://github.com/meteorwebcomponents/router)
 
 ## Theming/Styling
@@ -123,6 +123,8 @@
 * [Google I/O 2015](https://events.google.com/io2015/) :warning:
 * [Google Music](https://play.google.com/) 
 * [Torrent Alert](https://github.com/HedCET/TorrentAlert)
+* [Zeplin.io](https://app.zeplin.io/)
+* [More projects](https://github.com/Polymer/polymer/wiki/Who's-using-Polymer%3F)
 
 
 ##Other awesome resources
