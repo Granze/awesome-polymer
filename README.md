@@ -78,6 +78,7 @@
  * [Neon](https://elements.polymer-project.org/browse?package=neon-elements) Neon elements implement special effects.
  * [Platinum](https://elements.polymer-project.org/browse?package=platinum-elements) Elements to turn your web page into a true webapp, with push, offline, and more.
  * [Molecules](https://elements.polymer-project.org/browse?package=molecules) Elements that wrap other javascript libraries.
+ * [Carbon](https://elements.polymer-project.org/browse?package=carbon-elements)
 
 ## Directories
 * [Built with Polymer](http://builtwithpolymer.org/)
