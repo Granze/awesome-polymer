@@ -34,6 +34,7 @@
 * [Taming Polymer with SystemJS and TypeScript](http://blog.charto.net/typescript/Taming-Polymer-with-SystemJS-and-TypeScript-part-1/) Part 1
 
 ## Articles
+* [Encapsulated Routing with Elements](https://www.polymer-project.org/1.0/articles/routing.html)
 * [Building web components using ES6 classes](https://www.polymer-project.org/1.0/articles/es6.html)
 * [Write web components with ES2015 (ES6)](http://www.revillweb.com/tutorials/web-components-with-es2015-es6/)
 * [Live-reload for Polymer Chrome Apps](http://codingwithgerwin.blogspot.it/2015/07/live-reload-for-polymer-chrome-apps.html)
