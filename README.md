@@ -46,6 +46,7 @@
 * [Using Polymer with Flux and a global app state](http://paulusschoutsen.nl/blog/2015/07/using-polymer-with-flux-and-a-global-app-state/)
 * [Setting up your Production-ready Polymer 1.0 Application Development](http://blogs.walkingtree.in/2015/06/29/setting-up-your-production-ready-polymer-1-0-application-development/)
 * [Dynamically Loading Elements & ES6 Modules](http://addyosmani.github.io/webcomponent-samples/polymer/modules/)
+* [NET-A-PORTER case study](https://developers.google.com/web/showcase/case-study/net-a-porter)
 
 ## Videos
 * [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
