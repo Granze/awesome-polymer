@@ -117,15 +117,7 @@
 * [Polystyle](https://poly-style.appspot.com/demo/) Wrap existing stylesheets with Polymer's style module system.
 
 ## Notable projects 
-* [Google Translate Community](https://translate.google.com/community)
-* [Youtube Gaming](https://gaming.youtube.com/)
-* [A web-based guitar tuner](https://github.com/GoogleChrome/guitar-tuner)
-* [Dota 2 armory](http://d2armory.com/) 
-* [Google Santa Tracker](https://santatracker.google.com/)
-* [Star Wars Lightsaber Experience](https://lightsaber.withgoogle.com/) 
-* [Google I/O 2015](https://events.google.com/io2015/) :warning:
-* [Google Music](https://play.google.com/) 
-* [Torrent Alert](https://github.com/HedCET/TorrentAlert)
+[Polymer Projects](https://github.com/abdonrd/PolymerProjects) A list of websites and apps built with Polymer
 
 
 ##Other awesome resources
