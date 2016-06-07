@@ -111,9 +111,9 @@
 * [test-fixture](https://github.com/PolymerElements/test-fixture) Element that can simplify the exercise of consistently resetting a test suite's DOM.
 * [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) Utility classes to make testing easier.
 
-## Behaviours
-* [Reactive meteor data source for polymer elements](https://github.com/meteorwebcomponents/mixin)
-* [Two way bind polymer with Meteor Flowrouter](https://github.com/meteorwebcomponents/router)
+## Behaviors
+* [MWC-Mixin](https://github.com/meteorwebcomponents/mixin) Reactive meteor data source for polymer elements
+* [MWC-Router](https://github.com/meteorwebcomponents/router) Two way bind polymer with Meteor Flowrouter.
 
 ## Theming/Styling
 * [Polymer Themes](https://polymerthemes.com/) Free Polymer themes and templates
