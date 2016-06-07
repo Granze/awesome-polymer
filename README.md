@@ -65,6 +65,8 @@
 * [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate)
 * [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/) Build tools & boilerplate for creating production-quality web apps.
 * [Seed element](https://github.com/polymerlabs/seed-element)
+* [Meteor-Polymer Starter Kit](https://github.com/aruntk/kickstart-meteor-polymer)
+* [Meteor-Polymer Starter Kit Including Auth](https://github.com/aruntk/kickstart-meteor-polymer-with-auth)
 
 ## Generators
 * [Generator Polymer](https://github.com/yeoman/generator-polymer) Yeoman generator for Polymer projects, based on the official [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/).
@@ -100,6 +102,8 @@
 * [Crisper](https://github.com/PolymerLabs/crisper) Split inline scripts from an HTML file for CSP compliance.
 * [Snippets for Atom editor](https://atom.io/packages/polymer-snippets)
 * [Snippets for Sublime Text editor](https://packagecontrol.io/packages/Polymer%20%26%20Web%20Component%20Snippets)
+* [Synthesis](https://github.com/meteorwebcomponents/synthesis) Use Polymer as the view Layer of Meteor.js
+* [MWC-Layout](https://github.com/meteorwebcomponents/layout) Control rendering of polymer components.
 
 ## Testing
 * [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
@@ -108,7 +112,7 @@
 * [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) Utility classes to make testing easier.
 
 ## Behaviours
-* [Reactive meteor data source for polymer elementse](https://github.com/meteorwebcomponents/mixin)
+* [Reactive meteor data source for polymer elements](https://github.com/meteorwebcomponents/mixin)
 * [Two way bind polymer with Meteor Flowrouter](https://github.com/meteorwebcomponents/router)
 
 ## Theming/Styling
