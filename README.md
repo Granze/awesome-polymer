@@ -1,7 +1,5 @@
 # Awesome Polymer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-![Polymer](https://www.dartlang.org/polymer/images/polymer-logo.svg)
-
+<a href="https://www.polymer-project.org"><img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" height="64" width="92"></a>
 > A collection of awesome Polymer resources (v1+)
 
 :warning: = based on an older Polymer version 
@@ -113,6 +111,7 @@
 * [iron-test-helpers](https://github.com/PolymerElements/iron-test-helpers) Utility classes to make testing easier.
 
 ## Behaviors
+* [Polymer-Apollo](https://github.com/aruntk/polymer-apollo) Polymer Apollo GraphQL Integration.
 * [MWC-Mixin](https://github.com/meteorwebcomponents/mixin) Reactive meteor data source for polymer elements
 * [MWC-Router](https://github.com/meteorwebcomponents/router) Two way bind polymer with Meteor Flowrouter.
 
