@@ -42,7 +42,6 @@
 * [What is shady DOM](https://www.polymer-project.org/1.0/articles/shadydom.html)
 * [Using Polymer webcomponents with Angular JS](http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/)
 * [Upgrading to 1.0](https://www.bithound.io/blog/post/upgrading-to-polymer-10) bitHound Blog
-* [Using Polymer with Flux and a global app state](http://paulusschoutsen.nl/blog/2015/07/using-polymer-with-flux-and-a-global-app-state/)
 * [Setting up your Production-ready Polymer 1.0 Application Development](http://blogs.walkingtree.in/2015/06/29/setting-up-your-production-ready-polymer-1-0-application-development/)
 * [Dynamically Loading Elements & ES6 Modules](http://addyosmani.github.io/webcomponent-samples/polymer/modules/)
 * [NET-A-PORTER case study](https://developers.google.com/web/showcase/case-study/net-a-porter)
