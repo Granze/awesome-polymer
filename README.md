@@ -83,7 +83,7 @@
 
 ## Directories
 * [Built with Polymer](http://builtwithpolymer.org/)
-* [Customelemets.io](http://customelements.io/)
+* [Customelements.io](http://customelements.io/)
 * [Components Kitchen](http://component.kitchen/)
 * [open-elements](http://open-elements.org) Open for all elements working with polymer ^1.1
 
