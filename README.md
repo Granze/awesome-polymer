@@ -45,6 +45,7 @@
 * [Setting up your Production-ready Polymer 1.0 Application Development](http://blogs.walkingtree.in/2015/06/29/setting-up-your-production-ready-polymer-1-0-application-development/)
 * [Dynamically Loading Elements & ES6 Modules](http://addyosmani.github.io/webcomponent-samples/polymer/modules/)
 * [NET-A-PORTER case study](https://developers.google.com/web/showcase/case-study/net-a-porter)
+* [Polymer loves Redux](https://medium.com/collaborne-engineering/polymer-loves-redux-f89a863394d9#.7f4z92ppy)
 
 ## Videos
 * [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
@@ -114,6 +115,7 @@
 * [Polymer-Apollo](https://github.com/aruntk/polymer-apollo) Polymer Apollo GraphQL Integration.
 * [MWC-Mixin](https://github.com/meteorwebcomponents/mixin) Reactive meteor data source for polymer elements
 * [MWC-Router](https://github.com/meteorwebcomponents/router) Two way bind polymer with Meteor Flowrouter.
+* [Polymer-Redux](https://github.com/tur-nr/polymer-redux) Polymer bindings for Redux. 
 
 ## Theming/Styling
 * [Polymer Themes](https://polymerthemes.com/) Free Polymer themes and templates
