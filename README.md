@@ -102,6 +102,7 @@
 * [Snippets for Sublime Text editor](https://packagecontrol.io/packages/Polymer%20%26%20Web%20Component%20Snippets)
 * [Synthesis](https://github.com/meteorwebcomponents/synthesis) Use Polymer as the view Layer of Meteor.js
 * [MWC-Layout](https://github.com/meteorwebcomponents/layout) Control rendering of polymer components.
+* [WC-Loader](https://github.com/aruntk/wc-loader). Webcomponents webpack loader
 
 ## Testing
 * [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
