@@ -1,6 +1,6 @@
 # Awesome Polymer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <a href="https://www.polymer-project.org"><img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" height="64" width="92"></a>
-> A collection of awesome Polymer resources (v1+)
+> A collection of awesome Polymer resources
 
 :warning: = based on an older Polymer version 
 
