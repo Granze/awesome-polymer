@@ -97,7 +97,6 @@
 * [Polygit](http://polygit.org/) The Magic Server serves files directly from github (via ```cdn.rawgit.com```) in a manner that is compatible with HTML Imports natural deduplication feature.
 * [Polydev](https://github.com/PolymerLabs/polydev) DevTool extension.
 * [Polymer Ready](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) Show an icon in the address bar when it detects some Polymer and Custom components.
-* [PolySearch](https://chrome.google.com/webstore/detail/polysearch/gchibjlnlbpgcfjpbebnlecbbjndiidj) Search for Polymer elements directly from the Google Chrome's Omnibox. 
 * [Vulcanize](https://github.com/Polymer/vulcanize) Build tool for HTMLimports and web components.
 * [Crisper](https://github.com/PolymerLabs/crisper) Split inline scripts from an HTML file for CSP compliance.
 * [Snippets for Atom editor](https://atom.io/packages/polymer-snippets)
