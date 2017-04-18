@@ -126,7 +126,7 @@
 [Polymer Projects](https://github.com/abdonrd/PolymerProjects) A list of websites and apps built with Polymer
 
 
-##Other awesome resources
+## Other awesome resources
 **If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) list!**
 
 ---
