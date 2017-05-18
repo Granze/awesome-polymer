@@ -52,7 +52,7 @@
 * [Summit 2016](https://www.youtube.com/watch?v=0iM0DZjYGqg&list=PLNYkxOF6rcICc687SxHQRuo9TVNOJelSZ)
 * [Summit 2015](https://www.youtube.com/playlist?list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J)
 * [The Web Platform Podcast 46: Polymer 1.0](https://www.youtube.com/watch?v=d9tNO3n0RlM)
-* [Google I/O 2017 - Future, Faster: Unlock the Power of Web Components with Polymer] (https://www.youtube.com/watch?v=cuoZenpQveQ)
+* [Google I/O 2017 - Future, Faster: Unlock the Power of Web Components with Polymer](https://www.youtube.com/watch?v=cuoZenpQveQ)
 * [Google I/O 2015 - Polymer and modern web APIs: In production at Google scale](https://www.youtube.com/watch?v=fD2As5RmM8Q)
 * [Componentize your app with Polymer Elements](https://youtu.be/7WgEuNZCCHk)
 * [Learn Polymer 1.0](https://www.youtube.com/playlist?list=PLPaj_o9gjMYll0sSb47TrzQCjIo5iqQZm) by Stretch Projects
