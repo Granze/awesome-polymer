@@ -73,15 +73,17 @@
 * [Generator element](https://www.npmjs.com/package/generator-element) Yeoman generator to create Custom Elements using Polymer, X-Tag or VanillaJS.
 
 ## Official Elements
-* [Elements Catalog](https://elements.polymer-project.org/) 
- * [Iron](https://elements.polymer-project.org/browse?package=iron-elements) Iron elements are a set of visual and non-visual utility elements.
- * [Paper](https://elements.polymer-project.org/browse?package=paper-elements) Paper elements are a set of visual elements that implement Google's Material Design.
- * [Google web components](https://elements.polymer-project.org/browse?package=google-web-components) 
- * [Gold](https://elements.polymer-project.org/browse?package=gold-elements) The gold elements are built for e-commerce use-cases like checkout flows.
- * [Neon](https://elements.polymer-project.org/browse?package=neon-elements) Neon elements implement special effects.
- * [Platinum](https://elements.polymer-project.org/browse?package=platinum-elements) Elements to turn your web page into a true webapp, with push, offline, and more.
- * [Molecules](https://elements.polymer-project.org/browse?package=molecules) Elements that wrap other javascript libraries.
- * [Carbon](https://elements.polymer-project.org/browse?package=carbon-elements) Elements that enable building full web apps out of modular custom elements.
+* [Elements Catalog](https://www.webcomponents.org/collection/Polymer/elements) 
+ * [Iron](https://www.webcomponents.org/collection/PolymerElements/iron-elements) Iron elements are a set of visual and non-visual utility elements.
+ * [Paper](https://www.webcomponents.org/collection/PolymerElements/paper-elements) Paper elements are a set of visual elements that implement Google's Material Design.
+ * [Google web components](https://www.webcomponents.org/collection/GoogleWebComponents/google-web-components) 
+ * [Gold](https://www.webcomponents.org/collection/PolymerElements/gold-elements) The gold elements are built for e-commerce use-cases like checkout flows.
+ * [Platinum](https://www.webcomponents.org/collection/PolymerElements/platinum-elements) Elements to turn your web page into a true webapp, with push, offline, and more.
+ * [Molecules](https://www.webcomponents.org/collection/PolymerElements/molecules) Elements that wrap other javascript libraries.
+ * [App](https://www.webcomponents.org/collection/PolymerElements/app-elements) Elements that enable building full web apps out of modular custom elements.
+ * [Data](https://www.webcomponents.org/collection/PolymerElements/data-elements) A collection of data/storage related elements.
+ * [Layout](https://www.webcomponents.org/collection/PolymerElements/layout-elements) A collection of layout related elements.
+ * [[Obsolete] Neon](https://elements.polymer-project.org/browse?package=neon-elements) Neon elements implement special effects.
 
 ## Directories
 * [Built with Polymer](http://builtwithpolymer.org/)
