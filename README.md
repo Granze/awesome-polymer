@@ -46,6 +46,7 @@
 * [Dynamically Loading Elements & ES6 Modules](http://addyosmani.github.io/webcomponent-samples/polymer/modules/)
 * [NET-A-PORTER case study](https://developers.google.com/web/showcase/case-study/net-a-porter)
 * [Polymer loves Redux](https://medium.com/collaborne-engineering/polymer-loves-redux-f89a863394d9#.7f4z92ppy)
+* [How to use Polymer with Webpack](https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15)
 
 ## Videos
 * [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
