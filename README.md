@@ -46,6 +46,7 @@
 * [Dynamically Loading Elements & ES6 Modules](http://addyosmani.github.io/webcomponent-samples/polymer/modules/)
 * [NET-A-PORTER case study](https://developers.google.com/web/showcase/case-study/net-a-porter)
 * [Polymer loves Redux](https://medium.com/collaborne-engineering/polymer-loves-redux-f89a863394d9#.7f4z92ppy)
+* [How to use Polymer with Webpack](https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15)
 
 ## Videos
 * [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
@@ -107,6 +108,7 @@
 * [Synthesis](https://github.com/meteorwebcomponents/synthesis) Use Polymer as the view Layer of Meteor.js
 * [MWC-Layout](https://github.com/meteorwebcomponents/layout) Control rendering of polymer components.
 * [WC-Loader](https://github.com/aruntk/wc-loader). Webcomponents webpack loader
+* [Polymer Webpack Loader](https://github.com/webpack-contrib/polymer-webpack-loader). Polymer webpack loader.
 
 ## Testing
 * [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
