@@ -17,6 +17,7 @@
 * [Twitter](https://twitter.com/polymer)
 * [Google+ Community](https://plus.google.com/u/1/communities/115626364525706131031)
 * [Slack channel](http://polymer-slack.herokuapp.com/)
+* [Chinese QQ Group](https//shang.qq.com/wpa/qunwpa?idkey=9df0a6fdd100374f1097330ad6327d4d3c40dc734aa8e7a841ae41cda5012980)
 
 ## Tutorials/Guides
 * [Official Codelabs](https://codelabs.developers.google.com/polymer-summit)
