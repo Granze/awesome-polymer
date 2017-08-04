@@ -2,7 +2,7 @@
 <a href="https://www.polymer-project.org"><img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" height="64" width="92"></a>
 > A collection of awesome Polymer resources
 
-:warning: = based on an older Polymer version 
+:warning: = based on an older Polymer version
 
 ## General resources
 * [Official Site](https://www.polymer-project.org)
@@ -30,6 +30,7 @@
 * [Using Neon Animations](https://elements.polymer-project.org/guides/using-neon-animations)
 * [Build a real-time to-do app](https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app)
 * [Taming Polymer with SystemJS and TypeScript](http://blog.charto.net/typescript/Taming-Polymer-with-SystemJS-and-TypeScript-part-1/) Part 1
+* [Aurelia Integration](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/integrating-with-polymer)
 
 ## Articles
 * [Encapsulated Routing with Elements](https://www.polymer-project.org/1.0/articles/routing.html)
@@ -75,10 +76,10 @@
 * [Generator element](https://www.npmjs.com/package/generator-element) Yeoman generator to create Custom Elements using Polymer, X-Tag or VanillaJS.
 
 ## Official Elements
-* [Elements Catalog](https://www.webcomponents.org/collection/Polymer/elements) 
+* [Elements Catalog](https://www.webcomponents.org/collection/Polymer/elements)
  * [Iron](https://www.webcomponents.org/collection/PolymerElements/iron-elements) Iron elements are a set of visual and non-visual utility elements.
  * [Paper](https://www.webcomponents.org/collection/PolymerElements/paper-elements) Paper elements are a set of visual elements that implement Google's Material Design.
- * [Google web components](https://www.webcomponents.org/collection/GoogleWebComponents/google-web-components) 
+ * [Google web components](https://www.webcomponents.org/collection/GoogleWebComponents/google-web-components)
  * [Gold](https://www.webcomponents.org/collection/PolymerElements/gold-elements) The gold elements are built for e-commerce use-cases like checkout flows.
  * [Platinum](https://www.webcomponents.org/collection/PolymerElements/platinum-elements) Elements to turn your web page into a true webapp, with push, offline, and more.
  * [Molecules](https://www.webcomponents.org/collection/PolymerElements/molecules) Elements that wrap other javascript libraries.
@@ -96,7 +97,7 @@
 ## Tools
 * [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
 * [Polybuild](https://github.com/PolymerLabs/polybuild) An all-in-one build tool for Polymer apps.
-* [Polyup](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0. 
+* [Polyup](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0.
 * [Polylint](https://github.com/PolymerLabs/polylint) Detect errors in your code.
 * [Polygit](http://polygit.org/) The Magic Server serves files directly from github (via ```cdn.rawgit.com```) in a manner that is compatible with HTML Imports natural deduplication feature.
 * [Polydev](https://github.com/PolymerLabs/polydev) DevTool extension.
@@ -109,6 +110,7 @@
 * [MWC-Layout](https://github.com/meteorwebcomponents/layout) Control rendering of polymer components.
 * [WC-Loader](https://github.com/aruntk/wc-loader). Webcomponents webpack loader
 * [Polymer Webpack Loader](https://github.com/webpack-contrib/polymer-webpack-loader). Polymer webpack loader.
+* [Polymer CDN](https://github.com/download/polymer-cdn). Unofficial CDN for polymer components.
 
 ## Testing
 * [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
@@ -120,14 +122,14 @@
 * [Polymer-Apollo](https://github.com/aruntk/polymer-apollo) Polymer Apollo GraphQL Integration.
 * [MWC-Mixin](https://github.com/meteorwebcomponents/mixin) Reactive meteor data source for polymer elements
 * [MWC-Router](https://github.com/meteorwebcomponents/router) Two way bind polymer with Meteor Flowrouter.
-* [Polymer-Redux](https://github.com/tur-nr/polymer-redux) Polymer bindings for Redux. 
+* [Polymer-Redux](https://github.com/tur-nr/polymer-redux) Polymer bindings for Redux.
 
 ## Theming/Styling
 * [Polymer Themes](https://polymerthemes.com/) Free Polymer themes and templates
 * [Material Palette](https://www.materialpalette.com/) Palette generator based on Material Design
 * [Polystyle](https://poly-style.appspot.com/demo/) Wrap existing stylesheets with Polymer's style module system.
 
-## Notable projects 
+## Notable projects
 [Polymer Projects](https://github.com/abdonrd/PolymerProjects) A list of websites and apps built with Polymer
 
 
