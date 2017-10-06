@@ -31,6 +31,7 @@
 * [Build a real-time to-do app](https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app)
 * [Taming Polymer with SystemJS and TypeScript](http://blog.charto.net/typescript/Taming-Polymer-with-SystemJS-and-TypeScript-part-1/) Part 1
 * [Aurelia Integration](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/integrating-with-polymer)
+* [Polymer 3.0 Preview — Building a mini card game](https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6)
 
 ## Articles
 * [Encapsulated Routing with Elements](https://www.polymer-project.org/1.0/articles/routing.html)
