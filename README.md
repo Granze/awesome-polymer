@@ -23,7 +23,7 @@
 * [Test your elements](https://www.polymer-project.org/1.0/tools/tests.html)
 * [Testing Tips](https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64)
 * [Unit Testing](https://medium.com/@granze/polymer-unit-testing-d6a69910dc31)
-* [Deploy with Firebase](https://www.polymer-project.org/1.0/docs/start/psk/deploy.html)
+* [Deploy with Firebase](https://www.polymer-project.org/2.0/start/toolbox/deploy)
 * [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
 * [Using elements](https://elements.polymer-project.org/guides/using-elements)
 * [Flexbox layout with iron-flex-layout](https://elements.polymer-project.org/guides/flex-layout)
