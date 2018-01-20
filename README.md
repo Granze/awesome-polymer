@@ -97,6 +97,7 @@
 * [open-elements](http://open-elements.org) Open for all elements working with polymer ^1.1
 
 ## Tools
+* [App Toolbox](https://www.polymer-project.org/2.0/toolbox/) App Toolbox.
 * [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
 * [Polybuild](https://github.com/PolymerLabs/polybuild) An all-in-one build tool for Polymer apps.
 * [Polyup](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0.
