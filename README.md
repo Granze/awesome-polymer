@@ -113,6 +113,7 @@
 * [WC-Loader](https://github.com/aruntk/wc-loader). Webcomponents webpack loader
 * [Polymer Webpack Loader](https://github.com/webpack-contrib/polymer-webpack-loader). Polymer webpack loader.
 * [Polymer CDN](https://github.com/download/polymer-cdn). Unofficial CDN for polymer components.
+* [lit-html](https://github.com/Polymer/lit-html) HTML templates, via JavaScript template literals.
 
 ## Testing
 * [Web components tester](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
