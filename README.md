@@ -2,8 +2,6 @@
 <a href="https://www.polymer-project.org"><img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" height="64" width="92"></a>
 > A collection of awesome Polymer resources
 
-:warning: = based on an older Polymer version
-
 ## General resources
 * [Official Site](https://www.polymer-project.org)
 * [Blog](https://blog.polymer-project.org/)
