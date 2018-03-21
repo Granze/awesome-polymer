@@ -28,7 +28,6 @@
 * [Using Neon Animations](https://elements.polymer-project.org/guides/using-neon-animations)
 * [Build a real-time to-do app](https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app)
 * [Taming Polymer with SystemJS and TypeScript](http://blog.charto.net/typescript/Taming-Polymer-with-SystemJS-and-TypeScript-part-1/) Part 1
-* [Aurelia Integration](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/integrating-with-polymer)
 * [Polymer 3.0 Preview — Building a mini card game](https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6)
 
 ## Articles
@@ -42,7 +41,6 @@
 * [What is shady DOM](https://www.polymer-project.org/1.0/articles/shadydom.html)
 * [Using Polymer webcomponents with Angular JS](http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/)
 * [Upgrading to 1.0](https://www.bithound.io/blog/post/upgrading-to-polymer-10) bitHound Blog
-* [Setting up your Production-ready Polymer 1.0 Application Development](http://blogs.walkingtree.in/2015/06/29/setting-up-your-production-ready-polymer-1-0-application-development/)
 * [Dynamically Loading Elements & ES6 Modules](http://addyosmani.github.io/webcomponent-samples/polymer/modules/)
 * [NET-A-PORTER case study](https://developers.google.com/web/showcase/case-study/net-a-porter)
 * [Polymer loves Redux](https://medium.com/collaborne-engineering/polymer-loves-redux-f89a863394d9#.7f4z92ppy)
@@ -59,9 +57,6 @@
 * [Componentize your app with Polymer Elements](https://youtu.be/7WgEuNZCCHk)
 * [Learn Polymer 1.0](https://www.youtube.com/playlist?list=PLPaj_o9gjMYll0sSb47TrzQCjIo5iqQZm) by Stretch Projects
 * [Level up Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-)
-
-## Podcasts
-* [Polymer Podcast](http://www.polymerpodcast.com/)
 
 ## Boilerplates
 * [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate)
